@@ -1,0 +1,2 @@
+# SmallAlgo
+Short useful snippets
